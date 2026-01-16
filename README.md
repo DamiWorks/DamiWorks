@@ -12,7 +12,7 @@ I choose to improve my server-side logic and database management.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [damidami0605@gmail.com](mailto:damidami0605@gmail.com)
-* 🧠  I'm currently learning React, Inertia, Laravel, Tailwind
+* 🧠  I'm currently learning React, Inertia, Laravel and Tailwind
 * 👥  I'm looking to collaborate on any type of projects
 
 <p align="left">
