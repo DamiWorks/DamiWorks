@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web and Game Developer
 ----------------------
-I'm currently learning Web development and familiarize the language.
+I'm currently learning Web development and explore the languages.
 
 I choose to improve my server-side logic and database management.
 
