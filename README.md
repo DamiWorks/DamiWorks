@@ -8,7 +8,7 @@ I'm currently learning Web development and explore the languages.
 I choose to improve my server-side logic and database management.
 
 * 🌍  I'm based in Philippines
-* ✉️  You can contact me at [damidami0605@gmail.com](mailto:damidami0605@gmail.com)
+* ✉️  You can contact me at [damiworks2024@gmail.com](mailto:damiworks2024@gmail.com)
 * 🧠  I'm currently learning React, Inertia, Laravel and Tailwind
 * 👥  I'm looking to collaborate on any type of projects
 
