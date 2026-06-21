@@ -3,13 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 New Developer
 ----------------------
-I'm currently learning Python.
+I'm currently web development and every languages need.
 
 I choose to improve my server-side logic and database management.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [damiworks2024@gmail.com](mailto:damiworks2024@gmail.com)
-* 🧠  I'm currently learning React, Inertia, Laravel and Tailwind
+* 🧠  I'm currently learning Python.
 * 👥  I'm looking to collaborate on any type of projects
 
 <p align="left">
