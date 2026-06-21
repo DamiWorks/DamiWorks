@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 New Developer
 ----------------------
-I'm currently learning Web development and explore the languages.
+I'm currently learning Python.
 
 I choose to improve my server-side logic and database management.
 
