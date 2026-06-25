@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 New Developer
 ----------------------
-I'm currently web development and every languages need.
+I'm currently studying web development and every languages need.
 
 I choose to improve my server-side logic and database management.
 
